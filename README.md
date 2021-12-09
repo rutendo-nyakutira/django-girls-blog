@@ -5,3 +5,5 @@
   - Required
     - Python
     - Django
+
+### Deployed at http://burnedfenrir.pythonanywhere.com/
